@@ -1,0 +1,19 @@
+{
+  "name": "homew1",
+  "version": "1.0.0",
+  "description": "modul1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jane-Tarasevich/AutoTesting.git"
+  },
+  "author": "Tarasevich Euheniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jane-Tarasevich/AutoTesting/issues"
+  },
+  "homepage": "https://github.com/Jane-Tarasevich/AutoTesting#readme"
+}
