@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jane-Tarasevich/AutoTesting/issues"
   },
-  "homepage": "https://github.com/Jane-Tarasevich/AutoTesting#readme"
+  "homepage": "https://github.com/Jane-Tarasevich/AutoTesting#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
 }
